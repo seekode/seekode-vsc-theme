@@ -1,0 +1,37 @@
+{
+    "name": "seekode-theme",
+    "displayName": "seekode theme",
+    "description": "a theme package made by seekode",
+    "icon": "images/dark.png",
+    "version": "0.5.0",
+    "author": "seekode",
+    "publisher": "seekode",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/seekode/seekode-vsc-theme.git/"
+    },
+    "engines": {
+        "vscode": "^1.63.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "scripts": {
+        "package": "vsce package",
+        "publish": "vsce publish"
+    },
+    "contributes": {
+        "themes": [
+            {
+                "label": "seekode light",
+                "uiTheme": "vs",
+                "path": "./themes/seekode theme-color-light.json"
+            },
+            {
+                "label": "seekode dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/seekode theme-color-dark.json"
+            }
+        ]
+    }
+}
