@@ -109,7 +109,7 @@
     "scrollbarSlider.activeBackground": "#959da588",
     "scrollbarSlider.background": "#959da533",
     "scrollbarSlider.hoverBackground": "#959da544",
-    "settings.headerForeground": "#2f363d",
+    "settings.headerForeground": "#7C4DFF",
     "settings.modifiedItemIndicator": "#2188ff",
     "sideBar.background": "#e5e9f0",
     "sideBar.border": "#d8dee9",
@@ -142,8 +142,8 @@
     "textBlockQuote.background": "#fafbfc",
     "textBlockQuote.border": "#e1e4e8",
     "textCodeBlock.background": "#f6f8fa",
-		"textLink.activeForeground": "#032F62",
-		"textLink.foreground": "#032F62",
+		"textLink.activeForeground": "#D0B2FF",
+		"textLink.foreground": "#7C4DFF",
     "textPreformat.foreground": "#586069",
     "textSeparator.foreground": "#d1d5da",
     "titleBar.activeBackground": "#e5e9f0",
@@ -155,7 +155,7 @@
     "welcomePage.buttonBackground": "#f6f8fa",
     "welcomePage.buttonHoverBackground": "#e1e4e8"
   },
-	"tokenColors": [
+  "tokenColors": [
     {
       "settings": {
         "background": "#FFFFFF",
@@ -826,4 +826,5 @@
       }
     }
   ]
+	
 }
