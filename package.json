@@ -1,37 +1,35 @@
 {
-    "name": "seekode-theme",
-    "displayName": "seekode theme",
-    "description": "a theme package made by seekode",
-    "icon": "images/dark.png",
-    "version": "0.5.1",
-    "author": "seekode",
-    "publisher": "seekode",
-    "repository": {
-        "type": "git",
-        "url": "https://github.com/seekode/seekode-vsc-theme.git/"
-    },
-    "engines": {
-        "vscode": "^1.63.0"
-    },
-    "categories": [
-        "Themes"
-    ],
-    "scripts": {
-        "package": "vsce package",
-        "publish": "vsce publish"
-    },
-    "contributes": {
-        "themes": [
-            {
-                "label": "seekode light",
-                "uiTheme": "vs",
-                "path": "./themes/seekode theme-color-light.json"
-            },
-            {
-                "label": "seekode dark",
-                "uiTheme": "vs-dark",
-                "path": "./themes/seekode theme-color-dark.json"
-            }
-        ]
-    }
+	"name": "seekode-theme",
+	"displayName": "Seekode Theme",
+	"description": "A minimal theme package made by seekode",
+	"icon": "img/logo.png",
+	"version": "1.0.0",
+	"author": "seekode",
+	"publisher": "seekode",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/seekode/seekode-vsc-theme.git/"
+	},
+	"engines": {
+		"vscode": "^1.90.0"
+	},
+	"categories": ["Themes"],
+	"scripts": {
+		"package": "vsce package",
+		"publish": "vsce publish"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Seekode Light",
+				"uiTheme": "vs",
+				"path": "./themes/seekode-light.json"
+			},
+			{
+				"label": "Seekode Dark",
+				"uiTheme": "vs-dark",
+				"path": "./themes/seekode-dark.json"
+			}
+		]
+	}
 }
