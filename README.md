@@ -63,3 +63,6 @@ The Technologies I master the most:
 <br>
 <br>
 <br>
+
+# LICENSE
+[MIT LICENSE](https://github.com/seekode/seekode-vsc-theme/blob/master/LICENSE)
