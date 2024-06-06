@@ -1,11 +1,12 @@
 {
 	"name": "seekode-theme",
-	"displayName": "Seekode Theme",
+	"displayName": "seekode-theme",
 	"description": "A minimal theme package made by seekode",
 	"icon": "img/logo.png",
 	"version": "1.0.0",
 	"author": "seekode",
 	"publisher": "seekode",
+	"pricing": "Free",
 	"repository": {
 		"type": "git",
 		"url": "https://github.com/seekode/seekode-vsc-theme.git/"
