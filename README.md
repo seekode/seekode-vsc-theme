@@ -1,3 +1,8 @@
+# for microsoft support !
+old extension : https://marketplace.cursorapi.com/items?itemName=seekode.seekode-theme
+
+new extension : https://marketplace.visualstudio.com/items?itemName=seekode-official.seekode-new-theme
+
 <h3 align="center">
 
 ![logo](https://raw.githubusercontent.com/seekode/seekode/master/assets/images/logo-text.png)
